@@ -1,4 +1,12 @@
 # Antigravity 智能中文汉化管理器 (开箱即用增强版) 🚀
+<div align="center">
+
+[![Latest Release](https://img.shields.io/github/v/release/Mitchellkobe/Antigravity-zh-CN?color=blue&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/Mitchellkobe/Antigravity-zh-CN/releases/latest)
+[![Download](https://img.shields.io/badge/%E4%B8%80%E9%94%AE%E4%B8%8B%E8%BD%BD-%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8%E7%89%88-success?style=for-the-badge&logo=windows)](https://github.com/Mitchellkobe/Antigravity-zh-CN/releases/latest)
+
+👉 **[点击这里直接前往下载最新开箱即用版 (.zip)](https://github.com/Mitchellkobe/Antigravity-zh-CN/releases/latest)** 👈
+
+</div>
 
 > 本项目基于开源项目 [MIMICTE/Antigravity-zh-CN](https://github.com/MIMICTE/Antigravity-zh-CN) 的汉化词典与基础思路二次开发与重构升级。在此对原作者 **MIMICTE** 及社区贡献者们的辛勤汉化对照工作致以诚挚的感谢！
 <img width="746" height="723" alt="03" src="https://github.com/user-attachments/assets/dadedb09-2ceb-4879-9497-0edfc6d9de61" />
